@@ -1,4 +1,4 @@
-# 📱 ARProject
+ ARProject
 
 ---
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 - **Unity** ( 2021.3 LTS veya uyumlu bir sürüm)
 - **C#**
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Projeyi Çalıştırmak için
+##  Projeyi Çalıştırmak için
 
 1. Reponun bir kopyasını bilgisayarınıza klonlayın:
    ```bash
