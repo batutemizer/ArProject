@@ -10,7 +10,7 @@
 | `Build/`                  | Uygulamanın derlenmiş hali. |
 | `Doküman/`                | Rapor, sunum ve proje dokümantasyonu. |
 | `Library/`, `Logs/`, `Packages/`, `ProjectSettings/`, `UserSettings/` | Unity’nin otomatik oluşturduğu sistem klasörleri. |
-| `Video/`                  | Tanıtım veya demo videoları içerir. |
+| `Video/`                  | demo video içerir. |
 | `.gitignore`, `.gitattributes`, `.vsconfig` | Git ve Visual Studio yapılandırma dosyaları. |
 | `AR PROJE.sln`            | Visual Studio çözüm dosyası. |
 | `*.csproj`                | C# proje dosyaları. |
