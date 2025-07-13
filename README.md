@@ -7,7 +7,7 @@
 | Klasör / Dosya            | Açıklama |
 |---------------------------|----------|
 | `Assets/`                 | Projenin ana kaynak dosyaları (sahneler, script'ler, modeller). |
-| `Build/`                  | Uygulamanın derlenmiş hali. |
+| `Build/`                  | Uygulamanın derlenmiş hali. APK |
 | `Doküman/`                | Rapor, sunum ve proje dokümantasyonu. |
 | `Library/`, `Logs/`, `Packages/`, `ProjectSettings/`, `UserSettings/` | Unity’nin otomatik oluşturduğu sistem klasörleri. |
 | `Video/`                  | demo video içerir. |
